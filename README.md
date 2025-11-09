@@ -14,3 +14,13 @@ Mesh_Preprocessing_Assignment_VigneshV/
 ├── results_summary.csv        # CSV file summarizing MSE results
 ├── report.pdf                 # Final analysis report
 └── README.md                  # This file
+⚙️ Setup Instructions
+1. Prerequisites
+Ensure you have Python 3.8+ installed.
+
+2. Install Required Libraries
+Run the following command in your terminal or command prompt:
+
+Bash
+
+pip install numpy trimesh open3d matplotlib scipy
