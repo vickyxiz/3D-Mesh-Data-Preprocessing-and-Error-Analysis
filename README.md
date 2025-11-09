@@ -14,7 +14,8 @@ Mesh_Preprocessing_Assignment_VigneshV/
 ├── results_summary.csv        # CSV file summarizing MSE results
 ├── report.pdf                 # Final analysis report
 └── README.md                  # This file
-⚙️ Setup Instructions
+
+##⚙️ Setup Instructions
 1. Prerequisites
 Ensure you have Python 3.8+ installed.
 
