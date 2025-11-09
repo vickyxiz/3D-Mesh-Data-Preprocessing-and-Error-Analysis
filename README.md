@@ -8,6 +8,7 @@ It covers the full workflow — from loading mesh data to normalization, quantiz
 
 ## 📂 Project Structure
 Mesh_Preprocessing_Assignment_VigneshV/
+'''
 │
 ├── main.py 
 ├── 8samples/ 
@@ -15,3 +16,4 @@ Mesh_Preprocessing_Assignment_VigneshV/
 ├── results_summary.csv 
 ├── report.pdf 
 └── README.md 
+'''
