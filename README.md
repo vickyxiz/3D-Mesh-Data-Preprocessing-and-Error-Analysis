@@ -32,28 +32,8 @@ Run the following command:
 ```bash
 pip install numpy trimesh open3d matplotlib scipy
 ```
-▶️ Running the Project
+▶️ How to Run the Code
+Place all your .obj sample meshes inside the 8samples/ folder.
 
-Place your .obj meshes inside the folder:
-
-8samples/
-
-
-Run the main script:
-
+Run the main script from your terminal:
 python main.py
-The program will automatically:
-
-Load and inspect all meshes (Task 1)
-
-Apply normalization and quantization (Task 2)
-
-Reconstruct meshes and compute error metrics (Task 3)
-
-Perform adaptive quantization (Bonus Task)
-
-Save results to:
-
-plots/ → normalized, quantized, and reconstructed meshes + plots
-
-results_summary.csv → summary of Mean Squared Error (MSE)
