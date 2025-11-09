@@ -1,16 +1,7 @@
 
 # 🧠 3D Mesh Normalization, Quantization, and Error Analysis
 
-This project implements a **3D mesh data preprocessing pipeline** for the **SeamGPT Data Processing Assignment**.
-It covers the full workflow — from loading mesh data to normalization, quantization, reconstruction, and error analysis — and includes a **bonus adaptive quantization** task for rotation and translation invariance.
-
----
-
-# SeamGPT Data Processing Assignment: 3D Mesh Preprocessing Pipeline
-
-This project implements a 3D mesh data preprocessing pipeline. It covers the full workflow — from loading mesh data to normalization, quantization, reconstruction, and error analysis — and includes a bonus adaptive quantization task for rotation and translation invariance.
-
----
+This project implements a **3D mesh data preprocessing pipeline** for the **SeamGPT Data Processing Assignment**. It covers the full workflow — from loading mesh data to normalization, quantization, reconstruction, and error analysis — and includes a **bonus adaptive quantization** task for rotation and translation invariance.
 
 ## 📂 Project Structure
 
